@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const ENTRY =
-  `I hereby resign: after resetting 4,000 passwords, I finally remembered my own \u2014 it was "escape" \u2014 and I'm using it, effective immediately.`;
+  `I resign, effective immediately: my password has been "IQuit2019!" for seven years, and IT just emailed to say it's time for a change.`;
 
 // Sealed scorer gate: 1-140 characters, exactly one line, not only whitespace.
 // Fail loudly instead of shipping an entry that scores 0.
